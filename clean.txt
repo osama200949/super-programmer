@@ -1,0 +1,12 @@
+
+#include <iostream>    
+#include <string>
+using namespace std;
+int main()
+{
+     cout << "You are now writing a program
+      in c++ language "
+          << "you had already included the 
+          standard library in the "
+          << "and the main function is the 
+          function is the int main(){} "
